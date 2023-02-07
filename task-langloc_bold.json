@@ -51,5 +51,5 @@
   "SoftwareVersions": "syngo_MR_E11",
   "SpacingBetweenSlices": 3.3,
   "StationName": "AWP166193",
-  "TaskName": "TODO: full task name for langloc",
+  "TaskName": "Auditory Language Localizer",
   "TotalReadoutTime": 0.0345005}
