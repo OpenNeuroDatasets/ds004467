@@ -17,5 +17,7 @@
     "ReferencesAndLinks": [
         "TODO"
     ],
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "This protocol was approved by the MIT Committee on the Use of Humans as Experimental Subjects."
+    ]
 }
