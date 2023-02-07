@@ -7,7 +7,7 @@
         "Rebecca Saxe"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004467.v1.0.0",
     "Funding": [
         "This research was supported by the Simons Foundation Autism Research Initiative via the Simons Center for the Social Brain at MIT and the NSF Graduate Research Fellowship Program (#1745302 to HO)."
     ],
