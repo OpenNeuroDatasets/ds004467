@@ -1,0 +1,12 @@
+filename	acq_time	operator	randstr	MotionExclusion	MeanFD	RepeatSubjectExclusion	OtherExclusion	OtherExclusionReason
+anat/sub-SAXLIT218_T1w.nii.gz	2000-01-01T00:00:00	n/a	0f971a33	False	n/a	False	False	n/a
+func/sub-SAXLIT218_task-litshort_run-001_bold.nii.gz	2000-01-01T00:00:01	n/a	dc053b45	False	0.10247970001720808	False	False	n/a
+func/sub-SAXLIT218_task-litshort_run-002_bold.nii.gz	2000-01-01T00:00:02	n/a	3c08e033	False	0.10538120865904348	False	False	n/a
+func/sub-SAXLIT218_task-litshort_run-003_bold.nii.gz	2000-01-01T00:00:03	n/a	03d4fbbe	False	0.10782909041304346	False	False	n/a
+func/sub-SAXLIT218_task-litshort_run-004_bold.nii.gz	2000-01-01T00:00:04	n/a	89f610f1	False	0.11018112164130436	False	False	n/a
+func/sub-SAXLIT218_task-langloc_run-001_bold.nii.gz	2000-01-01T00:00:05	n/a	078c1287	False	0.11524631008146413	False	False	n/a
+func/sub-SAXLIT218_task-langloc_run-002_bold.nii.gz	2000-01-01T00:00:06	n/a	6a8ec99a	False	0.10971933657640448	False	False	n/a
+func/sub-SAXLIT218_task-litlong_run-001_bold.nii.gz	2000-01-01T00:00:07	n/a	35f9928e	False	0.11250543196091954	False	False	n/a
+func/sub-SAXLIT218_task-litlong_run-002_bold.nii.gz	2000-01-01T00:00:08	n/a	2ebca20e	False	0.11346745465972205	False	False	n/a
+func/sub-SAXLIT218_task-tom_run-001_bold.nii.gz	2000-01-01T00:00:09	n/a	e297f4b8	False	0.11461549235032215	False	False	n/a
+func/sub-SAXLIT218_task-tom_run-002_bold.nii.gz	2000-01-01T00:00:10	n/a	52279dbe	False	0.11600061685333332	False	False	n/a

@@ -1,0 +1,35 @@
+task	description	conds	weights
+litshort	mf	mf	1
+litshort	mb	mb	1
+litshort	df	df	1
+litshort	db	db	1
+litshort	mf-gt-mb	mf mb	1 -1
+litshort	df-gt-db	df db	1 -1
+litshort	f-gt-b	mf mb df db	.5 -.5 .5 -.5
+litshort	mb-gt-mf	mf mb	-1 1
+litshort	db-gt-df	df db	-1 1
+litshort	b-gt-f	mf mb df db	-.5 .5 -.5 .5
+litshort	mf-gt-df	mf df	1 -1
+litshort	df-gt-mf	mf df	-1 1
+litshort	mb-gt-db	mb db	1 -1
+litshort	db-gt-mb	mb db	-1 1
+litshort	elmo	elmo	1
+litshort	m-gt-d	mf mb df db	.5 .5 -.5 -.5
+litshort	d-gt-m	mf mb df db	-.5 -.5 .5 .5
+litshort	df-gt-others	mf mb df db	-1 -1 3 -1
+litshort	mf-gt-others	mf mb df db	3 -1 -1 -1
+litshort	df-gt-mf-intx	mf mb df db	-1 1 1 -1
+litshort	mf-gt-df-intx	mf mb df db	1 -1 -1 1
+langloc	int	int	1
+langloc	degr	degr	1
+langloc	int-gt-degr	int degr	1 -1
+langloc	degr-gt-int	int degr	-1 1
+litlong	f	daf	1
+litlong	b	dab	1
+litlong	f-gt-b	daf dab	1 -1
+litlong	b-gt-f	daf dab	-1 1
+litlong	elmo	elmo	1
+tom	fb	belief	1
+tom	fp	photo	1
+tom	fb-gt-fp	belief photo	1 -1
+tom	fp-gt-fb	belief photo	-1 1
